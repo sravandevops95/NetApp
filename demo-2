@@ -1,1 +1,3 @@
-print something
+Helloworld
+printf("Helloworld")
+scanf("Helloworld")
